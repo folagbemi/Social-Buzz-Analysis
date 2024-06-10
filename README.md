@@ -53,7 +53,7 @@ There are 16 unique categories. The top 5 Popular Categories by aggregate popula
 ## Analysis
 Animals had the highest aggregate popularity score of around 74965. It is very interesting to see both food and healthy eating within the top 5, it really shows that food is a highly engaging content category. Healthy eating ranks slightly higher than food, so perhaps your user base may be skewed towards healthy eaters and health-conscious people. its also interesting to see science and technology too. This may suggest that people enjoy consuming factual content and snippets of content that they can learn something from.
 
-May witnessed the highest volume of content posts with a total of 2,138 posts, This spike presents an opportunity to capitalize on increased user activity, possibly tied to seasonal trends, holidays, or special events.
+January witnessed the highest volume of content posts with a total of 3,106 posts, This spike presents an opportunity to capitalize on increased user activity, possibly tied to seasonal trends, holidays, or special events.
 
 The percentage split of popularity among the top 5 categories may be seen in this chart. The shares of each category do not differ significantly, but the 1.1% difference between the most popular category—animals and the second, science is the biggest. From a commercial perspective, this would imply that the most popular category animals—is lagging behind the other categories and might even continue to gain popularity. It will be crucial for you to make sure that any algorithms used to manage the content on the platform give a proper balance to the content categories in order to prevent a situation where one content category takes up the entire platform.
 
